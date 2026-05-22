@@ -77,3 +77,8 @@
                 echo '<img src="https://img.youtube.com/vi/'.$videoCode.'/maxresdefault.jpg" alt="MaxRes Thumbnail" /><br/>';
                 }
             }
+        ?>
+
+</body>
+
+</html>

@@ -26,7 +26,7 @@ O sistema exibirá as thumbnails correspondentes:
 ## 🛠️ Instalação
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/youtube-thumbnail-grabber.git
+   git clone https://github.com/Lukas-Marks/get-thumbnail-youtube.git
 
 ## Executar no servidor local
 http://localhost/index.php
